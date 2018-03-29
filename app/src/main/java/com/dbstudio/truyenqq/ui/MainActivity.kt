@@ -7,4 +7,7 @@ import com.dbstudio.truyenqq.ui.base.BaseActivity
  * @author doan.bien on 3/26/18.
  */
 class MainActivity : BaseActivity() {
+
+    override fun onBindViewModel() {
+    }
 }
